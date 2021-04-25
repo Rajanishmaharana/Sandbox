@@ -1,0 +1,16 @@
+.product_data {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  background: #f0efef;
+}
+.name {
+  background: rgb(218, 252, 124);
+  padding: 5px;
+}
+
+.description {
+}
+
+.footer_name {
+}
